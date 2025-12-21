@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "恋する (10YEARS THANK YOU)",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2025-12-21T09:34:20.915706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋する",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/01_恋する_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋する",
+      "artist": "Shishamo",
+      "has_synced": true,
+      "path": "select/02_恋する_Shishamo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋する - 10YEARS THANK YOU",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/03_恋する_-_10YEARS_THANK_YOU_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋する (10YEARS THANK YOU) - Koisuru (10YEARS THANK YOU)",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/04_恋する_(10YEARS_THANK_YOU)_-_Koisuru_(10YEARS_THANK_YOU)_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋する (10YEARS THANK YOU)",
+      "artist": "Shishamo",
+      "has_synced": true,
+      "path": "select/05_恋する_(10YEARS_THANK_YOU)_Shishamo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋する☆宇宙戦争っ!!",
+      "artist": "PRIM",
+      "has_synced": false,
+      "path": "select/06_恋する☆宇宙戦争っ!!_PRIM.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋する - Koisuru",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/07_恋する_-_Koisuru_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋する☆ひよこ",
+      "artist": "片霧烈火",
+      "has_synced": true,
+      "path": "select/08_恋する☆ひよこ_片霧烈火.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋する☆宇宙戦争っ!!",
+      "artist": "KONAMI",
+      "has_synced": false,
+      "path": "select/09_恋する☆宇宙戦争っ!!_KONAMI.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋する☆宇宙戦争っ!!",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/10_恋する☆宇宙戦争っ!!_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋する☆宇宙戦争っ!!",
+      "artist": "V.A.",
+      "has_synced": false,
+      "path": "select/11_恋する☆宇宙戦争っ!!_V.A..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋する☆乙女",
+      "artist": "茶太",
+      "has_synced": false,
+      "path": "select/12_恋する☆乙女_茶太.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Koi Suru ☆ Hiyoko (恋する☆ひよこ)",
+      "artist": "Rekka Katakiri (片霧烈火)",
+      "has_synced": true,
+      "path": "select/13_Koi_Suru_☆_Hiyoko_(恋する☆ひよこ)_Rekka_Katakiri_(片霧烈火).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_恋する_SHISHAMO.txt"
+    }
+  ]
+}
